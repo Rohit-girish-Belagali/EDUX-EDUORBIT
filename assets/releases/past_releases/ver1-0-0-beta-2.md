@@ -31,4 +31,4 @@ Dropped Python 3.10 support. The minimum required version is now **Python 3.11**
 - **@2023Anita** — MinerU nested output fix and Python 3.11 dependency marker (#250, #251)
 - **@YizukiAme** — Mimic WebSocket import fix and settings cache invalidation (#253, #254)
 
-**Full Changelog**: https://github.com/eduorbit/EDUX/compare/v1.0.0-beta.1...v1.0.0-beta.2
+**Full Changelog**: https://github.com/Rohit-girish-Belagali/EDUX-EDUORBIT/compare/v1.0.0-beta.1...v1.0.0-beta.2

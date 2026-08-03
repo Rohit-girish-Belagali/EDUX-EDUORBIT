@@ -4,12 +4,12 @@
 
 We're thrilled to announce **EDUX v1.0.0-beta1** — the first beta of the **EDUX 2.0** architecture. This is a ground-up rewrite that transforms EDUX from a monolithic RAG tutor into an **agent-native learning platform** with a two-layer plugin model (Tools + Capabilities), three unified entry points (CLI / WebSocket / Python SDK), and a completely rebuilt web application shell.
 
-> ⚠️ **Beta Notice:** This is **beta 1** of v1.0.0. The core architecture is stable, but some **UI interactions and edge-case workflows may still contain bugs**. We appreciate your patience and welcome bug reports via [Issues](https://github.com/eduorbit/EDUX/issues).
+> ⚠️ **Beta Notice:** This is **beta 1** of v1.0.0. The core architecture is stable, but some **UI interactions and edge-case workflows may still contain bugs**. We appreciate your patience and welcome bug reports via [Issues](https://github.com/Rohit-girish-Belagali/EDUX-EDUORBIT/issues).
 
 > 📌 **Knowledge Base Note:** In this release, the RAG pipeline has been **simplified to LlamaIndex only**. LightRAG and RAG-Anything pipelines along with their related knowledge base content have been **temporarily removed** to focus on stability. They will be re-introduced in upcoming releases.
 
 > [!TIP]
-> **Call for Feedback:** If you encounter any bugs or have feature requests, please [open an issue](https://github.com/eduorbit/EDUX/issues)! PRs are welcome — see our [Contributing Guide](https://github.com/eduorbit/EDUX/blob/main/CONTRIBUTING.md).
+> **Call for Feedback:** If you encounter any bugs or have feature requests, please [open an issue](https://github.com/Rohit-girish-Belagali/EDUX-EDUORBIT/issues)! PRs are welcome — see our [Contributing Guide](https://github.com/Rohit-girish-Belagali/EDUX-EDUORBIT/blob/main/CONTRIBUTING.md).
 
 **Diff Scope:** `main...dev` (903 files changed, 92,701 insertions, 73,749 deletions)
 
@@ -163,4 +163,4 @@ edux/services/
 - 53+ test files across runtime, services, agents, API, CLI, and tools.
 - Updated Docker configuration and layered dependency management.
 
-**Full Changelog**: https://github.com/eduorbit/EDUX/compare/v0.6.0...v1.0.0-beta1
+**Full Changelog**: https://github.com/Rohit-girish-Belagali/EDUX-EDUORBIT/compare/v0.6.0...v1.0.0-beta1

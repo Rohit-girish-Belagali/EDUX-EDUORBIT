@@ -31,4 +31,4 @@ Completed i18n coverage for the web UI — all hardcoded strings across workspac
 - **@LocNguyenSGU** — GitHub Copilot provider login docs (#262)
 - **@kagura-agent** — `parse_json_response` for LLM outputs to handle markdown fences
 
-**Full Changelog**: https://github.com/eduorbit/EDUX/compare/v1.0.0-beta.2...v1.0.0-beta.3
+**Full Changelog**: https://github.com/Rohit-girish-Belagali/EDUX-EDUORBIT/compare/v1.0.0-beta.2...v1.0.0-beta.3

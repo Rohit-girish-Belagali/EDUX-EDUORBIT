@@ -289,4 +289,4 @@ and a self-subscribe feature (#480).
   Memory v2, settings split). Pin to `v1.4.0-beta` for production until
   the GA cut; bug reports against any of the new modules are welcome.
 
-**Full Changelog**: https://github.com/eduorbit/EDUX/compare/v1.3.10...v1.4.0-beta
+**Full Changelog**: https://github.com/Rohit-girish-Belagali/EDUX-EDUORBIT/compare/v1.3.10...v1.4.0-beta

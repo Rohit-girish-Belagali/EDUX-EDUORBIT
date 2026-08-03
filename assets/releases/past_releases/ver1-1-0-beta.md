@@ -51,4 +51,4 @@ Resolved severe keystroke lag in long conversations by virtualizing the message 
 - **@srinivasrk** — Lower `oauth-cli-kit` version constraint to match available releases (#315)
 - **@Jah-yee** — Fix typo: Chinses → Chinese (#320)
 
-**Full Changelog**: https://github.com/eduorbit/EDUX/compare/v1.0.3...v1.1.0-beta
+**Full Changelog**: https://github.com/Rohit-girish-Belagali/EDUX-EDUORBIT/compare/v1.0.3...v1.1.0-beta
