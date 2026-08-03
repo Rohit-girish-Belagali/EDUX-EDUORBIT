@@ -1,0 +1,12 @@
+version: "1"
+rules:
+  - base: main
+    upstream: EduOrbit:main
+    mergeMethod: hardreset
+    mergeUnstable: true
+  - base: dev
+    upstream: EduOrbit:dev
+    mergeMethod: hardreset
+    mergeUnstable: true
+label: ":arrow_heading_down: pull"
+conflictLabel: "merge-conflict"

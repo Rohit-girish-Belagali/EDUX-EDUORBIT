@@ -1,0 +1,2 @@
+recursive-include edux_web *
+recursive-include edux_web/.next *
