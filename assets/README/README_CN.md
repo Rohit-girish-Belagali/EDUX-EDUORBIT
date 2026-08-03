@@ -31,12 +31,12 @@
 [![Python 3.11+](https://img.shields.io/badge/Python-3.11%2B-3776AB?style=flat-square&logo=python&logoColor=white)](https://www.python.org/downloads/)
 [![Next.js 16](https://img.shields.io/badge/Next.js-16-000000?style=flat-square&logo=next.js&logoColor=white)](https://nextjs.org/)
 [![License](https://img.shields.io/badge/License-Apache_2.0-blue?style=flat-square)](LICENSE)
-[![GitHub release](https://img.shields.io/github/v/release/eduorbit/EDUX?style=flat-square&color=brightgreen)](https://github.com/eduorbit/EDUX/releases)
+[![GitHub release](https://img.shields.io/github/v/release/Rohit-girish-Belagali/EDUX-EDUORBIT?style=flat-square&color=brightgreen)](https://github.com/Rohit-girish-Belagali/EDUX-EDUORBIT/releases)
 [![arXiv](https://img.shields.io/badge/arXiv-2604.26962-b31b1b?style=flat-square&logo=arxiv&logoColor=white)](https://arxiv.org/abs/2604.26962)
 
 [![Discord](https://img.shields.io/badge/Discord-社区-5865F2?style=flat-square&logo=discord&logoColor=white)](https://discord.gg/eRsjPgMU4t)
 [![Feishu](https://img.shields.io/badge/飞书-交流群-00D4AA?style=flat-square&logo=feishu&logoColor=white)](./Communication.md)
-[![WeChat](https://img.shields.io/badge/微信-交流群-07C160?style=flat-square&logo=wechat&logoColor=white)](https://github.com/eduorbit/EDUX/issues/78)
+[![WeChat](https://img.shields.io/badge/微信-交流群-07C160?style=flat-square&logo=wechat&logoColor=white)](https://github.com/Rohit-girish-Belagali/EDUX-EDUORBIT/issues/78)
 
 [核心功能](#-核心功能) · [快速开始](#-快速开始) · [功能探索](#-探索-edux) · [CLI 命令行](#️-edux-cli--智能体原生界面) · [生态系统](#-生态系统--eduhub-与技能社区) · [社区](#-社区)
 
@@ -44,7 +44,7 @@
 
 ---
 
-> 🤝 **欢迎各种形式的贡献！** 在 [`路线图`](https://github.com/eduorbit/EDUX/issues/498) 为议题投票或提出新建议，详见 [贡献指南](CONTRIBUTING.md)，了解分支策略、编码规范及参与方式。
+> 🤝 **欢迎各种形式的贡献！** 在 [`路线图`](https://github.com/Rohit-girish-Belagali/EDUX-EDUORBIT/issues/498) 为议题投票或提出新建议，详见 [贡献指南](CONTRIBUTING.md)，了解分支策略、编码规范及参与方式。
 
 ### 📰 新闻动态
 
@@ -52,7 +52,7 @@
 - **2026-04-19** 🎉 111 天突破 2 万 Star！感谢大家对真正个性化智能辅导的支持。
 - **2026-04-10** 📄 论文已发布于 arXiv — 阅读 [预印本](https://arxiv.org/abs/2604.26962)，了解 EDUX 的设计理念与背后的思考。
 - **2026-02-06** 🚀 仅 39 天突破 1 万 Star！衷心感谢我们出色的社区。
-- **2026-01-01** 🎊 新年快乐！加入我们的 [Discord](https://discord.gg/eRsjPgMU4t)、[微信群](https://github.com/eduorbit/EDUX/issues/78) 或 [Discussions](https://github.com/eduorbit/EDUX/discussions) — 一起塑造 EDUX 的未来。
+- **2026-01-01** 🎊 新年快乐！加入我们的 [Discord](https://discord.gg/eRsjPgMU4t)、[微信群](https://github.com/Rohit-girish-Belagali/EDUX-EDUORBIT/issues/78) 或 [Discussions](https://github.com/Rohit-girish-Belagali/EDUX-EDUORBIT/discussions) — 一起塑造 EDUX 的未来。
 - **2025-12-29** 🎓 EDUX 正式发布！
 
 ## ✨ 核心功能
@@ -96,7 +96,7 @@ edux start    # 启动后端 + 前端；保持终端窗口打开
 适用于基于代码仓库的开发。使用 **Python 3.11+** 和 **Node.js 22 LTS** 以匹配 CI 和 Docker 环境。
 
 ```bash
-git clone https://github.com/eduorbit/EDUX.git
+git clone https://github.com/Rohit-girish-Belagali/EDUX-EDUORBIT.git
 cd EDUX
 
 # 创建 venv（macOS/Linux）。Windows PowerShell：
@@ -229,7 +229,7 @@ Docker Desktop（macOS/Windows）通常无需 `--add-host` 即可解析 `host.do
 当不需要 Web UI 时使用。仅 CLI 包从源码安装，不从 PyPI 安装。
 
 ```bash
-git clone https://github.com/eduorbit/EDUX.git
+git clone https://github.com/Rohit-girish-Belagali/EDUX-EDUORBIT.git
 cd EDUX
 
 # 创建 venv（macOS/Linux）。Windows PowerShell：
@@ -662,25 +662,25 @@ EDUX 也站在众多优秀开源项目的肩膀上，它们给予了我们工具
 
 ### 🗺️ 路线图与贡献
 
-我们希望 EDUX 持续迭代与进步 — 并最终成为我们回馈开源社区的礼物。我们的[**路线图**](https://github.com/eduorbit/EDUX/issues/498)持续更新；欢迎在那里为议题投票或提出新想法。如果你想贡献，请查看[**贡献指南**](CONTRIBUTING.md)，了解分支策略、编码规范及参与方式。
+我们希望 EDUX 持续迭代与进步 — 并最终成为我们回馈开源社区的礼物。我们的[**路线图**](https://github.com/Rohit-girish-Belagali/EDUX-EDUORBIT/issues/498)持续更新；欢迎在那里为议题投票或提出新想法。如果你想贡献，请查看[**贡献指南**](CONTRIBUTING.md)，了解分支策略、编码规范及参与方式。
 
 <div align="center">
 
 我们希望 EDUX 成为送给社区的一份礼物。🎁
 
-<a href="https://github.com/eduorbit/EDUX/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=eduorbit/EDUX&max=999" alt="贡献者" />
+<a href="https://github.com/Rohit-girish-Belagali/EDUX-EDUORBIT/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=Rohit-girish-Belagali/EDUX-EDUORBIT&max=999" alt="贡献者" />
 </a>
 
 </div>
 
 <div align="center">
 
-<a href="https://www.star-history.com/#eduorbit/EDUX&type=timeline&legend=top-left">
+<a href="https://www.star-history.com/#Rohit-girish-Belagali/EDUX-EDUORBIT&type=timeline&legend=top-left">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=eduorbit/EDUX&type=timeline&theme=dark&legend=top-left" />
-    <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=eduorbit/EDUX&type=timeline&legend=top-left" />
-    <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=eduorbit/EDUX&type=timeline&legend=top-left" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=Rohit-girish-Belagali/EDUX-EDUORBIT&type=timeline&theme=dark&legend=top-left" />
+    <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=Rohit-girish-Belagali/EDUX-EDUORBIT&type=timeline&legend=top-left" />
+    <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=Rohit-girish-Belagali/EDUX-EDUORBIT&type=timeline&legend=top-left" />
   </picture>
 </a>
 
@@ -689,9 +689,9 @@ EDUX 也站在众多优秀开源项目的肩膀上，它们给予了我们工具
 <p align="center">
  <a href="https://www.star-history.com/eduorbit/edux">
   <picture>
-   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/badge?repo=eduorbit/EDUX&theme=dark" />
-   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/badge?repo=eduorbit/EDUX" />
-   <img alt="Star History Rank" src="https://api.star-history.com/badge?repo=eduorbit/EDUX" />
+   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/badge?repo=Rohit-girish-Belagali/EDUX-EDUORBIT&theme=dark" />
+   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/badge?repo=Rohit-girish-Belagali/EDUX-EDUORBIT" />
+   <img alt="Star History Rank" src="https://api.star-history.com/badge?repo=Rohit-girish-Belagali/EDUX-EDUORBIT" />
   </picture>
  </a>
 </p>

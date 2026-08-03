@@ -31,12 +31,12 @@
 [![Python 3.11+](https://img.shields.io/badge/Python-3.11%2B-3776AB?style=flat-square&logo=python&logoColor=white)](https://www.python.org/downloads/)
 [![Next.js 16](https://img.shields.io/badge/Next.js-16-000000?style=flat-square&logo=next.js&logoColor=white)](https://nextjs.org/)
 [![License](https://img.shields.io/badge/License-Apache_2.0-blue?style=flat-square)](../../LICENSE)
-[![GitHub release](https://img.shields.io/github/v/release/eduorbit/EDUX?style=flat-square&color=brightgreen)](https://github.com/eduorbit/EDUX/releases)
+[![GitHub release](https://img.shields.io/github/v/release/Rohit-girish-Belagali/EDUX-EDUORBIT?style=flat-square&color=brightgreen)](https://github.com/Rohit-girish-Belagali/EDUX-EDUORBIT/releases)
 [![arXiv](https://img.shields.io/badge/arXiv-2604.26962-b31b1b?style=flat-square&logo=arxiv&logoColor=white)](https://arxiv.org/abs/2604.26962)
 
 [![Discord](https://img.shields.io/badge/Discord-Community-5865F2?style=flat-square&logo=discord&logoColor=white)](https://discord.gg/eRsjPgMU4t)
 [![Feishu](https://img.shields.io/badge/Feishu-Group-00D4AA?style=flat-square&logo=feishu&logoColor=white)](../../Communication.md)
-[![WeChat](https://img.shields.io/badge/WeChat-Group-07C160?style=flat-square&logo=wechat&logoColor=white)](https://github.com/eduorbit/EDUX/issues/78)
+[![WeChat](https://img.shields.io/badge/WeChat-Group-07C160?style=flat-square&logo=wechat&logoColor=white)](https://github.com/Rohit-girish-Belagali/EDUX-EDUORBIT/issues/78)
 
 [Características](#-características-principales) · [Comenzar](#-comenzar) · [Explorar](#-explorar-edux) · [CLI](#️-edux-cli--interfaz-nativa-de-agentes) · [Ecosistema](#-ecosistema--eduhub-y-la-comunidad-de-skills) · [Comunidad](#-comunidad)
 
@@ -44,7 +44,7 @@
 
 ---
 
-> 🤝 **¡Damos la bienvenida a cualquier tipo de contribución!** Vota en los elementos del roadmap o propone nuevos en [`Roadmap`](https://github.com/eduorbit/EDUX/issues/498), y consulta nuestra [Guía de Contribución](../../CONTRIBUTING.md) para la estrategia de ramas, estándares de código y cómo comenzar.
+> 🤝 **¡Damos la bienvenida a cualquier tipo de contribución!** Vota en los elementos del roadmap o propone nuevos en [`Roadmap`](https://github.com/Rohit-girish-Belagali/EDUX-EDUORBIT/issues/498), y consulta nuestra [Guía de Contribución](../../CONTRIBUTING.md) para la estrategia de ramas, estándares de código y cómo comenzar.
 
 ### 📰 Noticias
 
@@ -52,7 +52,7 @@
 - **2026-04-19** 🎉 ¡20k estrellas en 111 días! Gracias por el apoyo hacia una tutoría verdaderamente personalizada e inteligente.
 - **2026-04-10** 📄 Nuestro artículo ya está en arXiv — lee el [preprint](https://arxiv.org/abs/2604.26962) para conocer el diseño y las ideas detrás de EDUX.
 - **2026-02-06** 🚀 ¡10k estrellas en solo 39 días! Un enorme agradecimiento a nuestra increíble comunidad.
-- **2026-01-01** 🎊 ¡Feliz Año Nuevo! Únete a nuestro [Discord](https://discord.gg/eRsjPgMU4t), [WeChat](https://github.com/eduorbit/EDUX/issues/78) o [Discussions](https://github.com/eduorbit/EDUX/discussions) — juntos demos forma al futuro de EDUX.
+- **2026-01-01** 🎊 ¡Feliz Año Nuevo! Únete a nuestro [Discord](https://discord.gg/eRsjPgMU4t), [WeChat](https://github.com/Rohit-girish-Belagali/EDUX-EDUORBIT/issues/78) o [Discussions](https://github.com/Rohit-girish-Belagali/EDUX-EDUORBIT/discussions) — juntos demos forma al futuro de EDUX.
 - **2025-12-29** 🎓 ¡EDUX está oficialmente lanzado!
 
 ## ✨ Características Principales
@@ -96,7 +96,7 @@ Después de `edux start`, abre la URL del frontend impresa en la terminal — po
 Para desarrollo en un checkout. Usa **Python 3.11+** y **Node.js 22 LTS** para coincidir con CI y Docker.
 
 ```bash
-git clone https://github.com/eduorbit/EDUX.git
+git clone https://github.com/Rohit-girish-Belagali/EDUX-EDUORBIT.git
 cd EDUX
 
 # Crear un venv (macOS/Linux). Windows PowerShell:
@@ -229,7 +229,7 @@ Docker Desktop (macOS/Windows) generalmente resuelve `host.docker.internal` sin 
 Cuando no necesitas la UI web. El paquete de solo CLI se instala desde un checkout de fuente, no desde PyPI.
 
 ```bash
-git clone https://github.com/eduorbit/EDUX.git
+git clone https://github.com/Rohit-girish-Belagali/EDUX-EDUORBIT.git
 cd EDUX
 
 # Crear un venv (macOS/Linux). Windows PowerShell:
@@ -674,25 +674,25 @@ EDUX también se apoya en los hombros de destacados proyectos de código abierto
 
 ### 🗺️ Roadmap y Contribuir
 
-Queremos que EDUX siga iterando y mejorando — y en última instancia se convierta en un regalo que devolvamos a la comunidad de código abierto. Nuestro [**roadmap**](https://github.com/eduorbit/EDUX/issues/498) se actualiza continuamente; vota en los elementos allí o propone nuevos. Si deseas contribuir, consulta la [**Guía de Contribución**](../../CONTRIBUTING.md) para la estrategia de ramas, estándares de código y cómo comenzar.
+Queremos que EDUX siga iterando y mejorando — y en última instancia se convierta en un regalo que devolvamos a la comunidad de código abierto. Nuestro [**roadmap**](https://github.com/Rohit-girish-Belagali/EDUX-EDUORBIT/issues/498) se actualiza continuamente; vota en los elementos allí o propone nuevos. Si deseas contribuir, consulta la [**Guía de Contribución**](../../CONTRIBUTING.md) para la estrategia de ramas, estándares de código y cómo comenzar.
 
 <div align="center">
 
 Esperamos que EDUX se convierta en un regalo para la comunidad. 🎁
 
-<a href="https://github.com/eduorbit/EDUX/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=eduorbit/EDUX&max=999" alt="Contribuidores" />
+<a href="https://github.com/Rohit-girish-Belagali/EDUX-EDUORBIT/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=Rohit-girish-Belagali/EDUX-EDUORBIT&max=999" alt="Contribuidores" />
 </a>
 
 </div>
 
 <div align="center">
 
-<a href="https://www.star-history.com/#eduorbit/EDUX&type=timeline&legend=top-left">
+<a href="https://www.star-history.com/#Rohit-girish-Belagali/EDUX-EDUORBIT&type=timeline&legend=top-left">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=eduorbit/EDUX&type=timeline&theme=dark&legend=top-left" />
-    <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=eduorbit/EDUX&type=timeline&legend=top-left" />
-    <img alt="Gráfico de historial de estrellas" src="https://api.star-history.com/svg?repos=eduorbit/EDUX&type=timeline&legend=top-left" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=Rohit-girish-Belagali/EDUX-EDUORBIT&type=timeline&theme=dark&legend=top-left" />
+    <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=Rohit-girish-Belagali/EDUX-EDUORBIT&type=timeline&legend=top-left" />
+    <img alt="Gráfico de historial de estrellas" src="https://api.star-history.com/svg?repos=Rohit-girish-Belagali/EDUX-EDUORBIT&type=timeline&legend=top-left" />
   </picture>
 </a>
 
@@ -701,9 +701,9 @@ Esperamos que EDUX se convierta en un regalo para la comunidad. 🎁
 <p align="center">
  <a href="https://www.star-history.com/eduorbit/edux">
   <picture>
-   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/badge?repo=eduorbit/EDUX&theme=dark" />
-   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/badge?repo=eduorbit/EDUX" />
-   <img alt="Clasificación del historial de estrellas" src="https://api.star-history.com/badge?repo=eduorbit/EDUX" />
+   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/badge?repo=Rohit-girish-Belagali/EDUX-EDUORBIT&theme=dark" />
+   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/badge?repo=Rohit-girish-Belagali/EDUX-EDUORBIT" />
+   <img alt="Clasificación del historial de estrellas" src="https://api.star-history.com/badge?repo=Rohit-girish-Belagali/EDUX-EDUORBIT" />
   </picture>
  </a>
 </p>

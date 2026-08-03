@@ -31,12 +31,12 @@
 [![Python 3.11+](https://img.shields.io/badge/Python-3.11%2B-3776AB?style=flat-square&logo=python&logoColor=white)](https://www.python.org/downloads/)
 [![Next.js 16](https://img.shields.io/badge/Next.js-16-000000?style=flat-square&logo=next.js&logoColor=white)](https://nextjs.org/)
 [![License](https://img.shields.io/badge/License-Apache_2.0-blue?style=flat-square)](../../LICENSE)
-[![GitHub release](https://img.shields.io/github/v/release/eduorbit/EDUX?style=flat-square&color=brightgreen)](https://github.com/eduorbit/EDUX/releases)
+[![GitHub release](https://img.shields.io/github/v/release/Rohit-girish-Belagali/EDUX-EDUORBIT?style=flat-square&color=brightgreen)](https://github.com/Rohit-girish-Belagali/EDUX-EDUORBIT/releases)
 [![arXiv](https://img.shields.io/badge/arXiv-2604.26962-b31b1b?style=flat-square&logo=arxiv&logoColor=white)](https://arxiv.org/abs/2604.26962)
 
 [![Discord](https://img.shields.io/badge/Discord-Community-5865F2?style=flat-square&logo=discord&logoColor=white)](https://discord.gg/eRsjPgMU4t)
 [![Feishu](https://img.shields.io/badge/Feishu-Group-00D4AA?style=flat-square&logo=feishu&logoColor=white)](../../Communication.md)
-[![WeChat](https://img.shields.io/badge/WeChat-Group-07C160?style=flat-square&logo=wechat&logoColor=white)](https://github.com/eduorbit/EDUX/issues/78)
+[![WeChat](https://img.shields.io/badge/WeChat-Group-07C160?style=flat-square&logo=wechat&logoColor=white)](https://github.com/Rohit-girish-Belagali/EDUX-EDUORBIT/issues/78)
 
 [คุณสมบัติ](#-คุณสมบัติหลัก) · [เริ่มต้น](#-เริ่มต้น) · [สำรวจ](#-สำรวจ-edux) · [CLI](#️-edux-cli--อินเทอร์เฟซ-agent-native) · [ระบบนิเวศ](#-ระบบนิเวศ--eduhub--ชุมชน-skills) · [ชุมชน](#-ชุมชน)
 
@@ -44,7 +44,7 @@
 
 ---
 
-> 🤝 **เรายินดีรับการมีส่วนร่วมทุกรูปแบบ!** โหวตรายการ roadmap หรือเสนอรายการใหม่ที่ [`Roadmap`](https://github.com/eduorbit/EDUX/issues/498) และดู [คู่มือการมีส่วนร่วม](../../CONTRIBUTING.md) สำหรับกลยุทธ์ branching มาตรฐานการเขียนโค้ด และวิธีเริ่มต้น
+> 🤝 **เรายินดีรับการมีส่วนร่วมทุกรูปแบบ!** โหวตรายการ roadmap หรือเสนอรายการใหม่ที่ [`Roadmap`](https://github.com/Rohit-girish-Belagali/EDUX-EDUORBIT/issues/498) และดู [คู่มือการมีส่วนร่วม](../../CONTRIBUTING.md) สำหรับกลยุทธ์ branching มาตรฐานการเขียนโค้ด และวิธีเริ่มต้น
 
 ### 📰 ข่าวสาร
 
@@ -52,7 +52,7 @@
 - **2026-04-19** 🎉 ถึง 20k stars ใน 111 วัน! ขอบคุณสำหรับการสนับสนุนที่มุ่งสู่การสอนพิเศษที่เป็นส่วนตัวและชาญฉลาดอย่างแท้จริง
 - **2026-04-10** 📄 บทความของเราตอนนี้มีบน arXiv แล้ว! อ่าน [preprint](https://arxiv.org/abs/2604.26962) เพื่อเรียนรู้เกี่ยวกับการออกแบบและแนวคิดที่อยู่เบื้องหลัง EDUX
 - **2026-02-06** 🚀 ถึง 10k stars ในเพียง 39 วัน! ขอบคุณชุมชนที่น่าเหลือเชื่ออย่างยิ่ง!
-- **2026-01-01** 🎊 สวัสดีปีใหม่! เข้าร่วม [Discord](https://discord.gg/eRsjPgMU4t), [WeChat](https://github.com/eduorbit/EDUX/issues/78) หรือ [Discussions](https://github.com/eduorbit/EDUX/discussions) — มาร่วมกันกำหนดอนาคตของ EDUX
+- **2026-01-01** 🎊 สวัสดีปีใหม่! เข้าร่วม [Discord](https://discord.gg/eRsjPgMU4t), [WeChat](https://github.com/Rohit-girish-Belagali/EDUX-EDUORBIT/issues/78) หรือ [Discussions](https://github.com/Rohit-girish-Belagali/EDUX-EDUORBIT/discussions) — มาร่วมกันกำหนดอนาคตของ EDUX
 - **2025-12-29** 🎓 EDUX ได้รับการเปิดตัวอย่างเป็นทางการแล้ว!
 
 ## ✨ คุณสมบัติหลัก
@@ -96,7 +96,7 @@ edux start    # เริ่ม backend + frontend; เปิด terminal ไว
 สำหรับการพัฒนาจาก checkout ใช้ **Python 3.11+** และ **Node.js 22 LTS** เพื่อให้ตรงกับ CI และ Docker
 
 ```bash
-git clone https://github.com/eduorbit/EDUX.git
+git clone https://github.com/Rohit-girish-Belagali/EDUX-EDUORBIT.git
 cd EDUX
 
 # สร้าง venv (macOS/Linux). Windows PowerShell:
@@ -229,7 +229,7 @@ Docker Desktop (macOS/Windows) มักจะ resolve `host.docker.internal` �
 เมื่อคุณไม่ต้องการ Web UI แพ็คเกจ CLI-only ติดตั้งจาก source checkout ไม่ใช่จาก PyPI
 
 ```bash
-git clone https://github.com/eduorbit/EDUX.git
+git clone https://github.com/Rohit-girish-Belagali/EDUX-EDUORBIT.git
 cd EDUX
 
 # สร้าง venv (macOS/Linux). Windows PowerShell:
@@ -662,25 +662,25 @@ EDUX ยังยืนอยู่บนไหล่ของโปรเจก
 
 ### 🗺️ Roadmap และการมีส่วนร่วม
 
-เราต้องการให้ EDUX พัฒนาและปรับปรุงต่อเนื่อง — และสุดท้ายกลายเป็นของขวัญที่เรามอบคืนสู่ชุมชนโอเพนซอร์ส [**roadmap**](https://github.com/eduorbit/EDUX/issues/498) ของเราอัพเดตต่อเนื่อง โหวตรายการที่นั่นหรือเสนอรายการใหม่ หากต้องการมีส่วนร่วม ดู [**คู่มือการมีส่วนร่วม**](../../CONTRIBUTING.md) สำหรับกลยุทธ์ branching มาตรฐานโค้ด และวิธีเริ่มต้น
+เราต้องการให้ EDUX พัฒนาและปรับปรุงต่อเนื่อง — และสุดท้ายกลายเป็นของขวัญที่เรามอบคืนสู่ชุมชนโอเพนซอร์ส [**roadmap**](https://github.com/Rohit-girish-Belagali/EDUX-EDUORBIT/issues/498) ของเราอัพเดตต่อเนื่อง โหวตรายการที่นั่นหรือเสนอรายการใหม่ หากต้องการมีส่วนร่วม ดู [**คู่มือการมีส่วนร่วม**](../../CONTRIBUTING.md) สำหรับกลยุทธ์ branching มาตรฐานโค้ด และวิธีเริ่มต้น
 
 <div align="center">
 
 เราหวังว่า EDUX จะกลายเป็นของขวัญสำหรับชุมชน 🎁
 
-<a href="https://github.com/eduorbit/EDUX/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=eduorbit/EDUX&max=999" alt="ผู้มีส่วนร่วม" />
+<a href="https://github.com/Rohit-girish-Belagali/EDUX-EDUORBIT/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=Rohit-girish-Belagali/EDUX-EDUORBIT&max=999" alt="ผู้มีส่วนร่วม" />
 </a>
 
 </div>
 
 <div align="center">
 
-<a href="https://www.star-history.com/#eduorbit/EDUX&type=timeline&legend=top-left">
+<a href="https://www.star-history.com/#Rohit-girish-Belagali/EDUX-EDUORBIT&type=timeline&legend=top-left">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=eduorbit/EDUX&type=timeline&theme=dark&legend=top-left" />
-    <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=eduorbit/EDUX&type=timeline&legend=top-left" />
-    <img alt="กราฟประวัติดาว" src="https://api.star-history.com/svg?repos=eduorbit/EDUX&type=timeline&legend=top-left" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=Rohit-girish-Belagali/EDUX-EDUORBIT&type=timeline&theme=dark&legend=top-left" />
+    <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=Rohit-girish-Belagali/EDUX-EDUORBIT&type=timeline&legend=top-left" />
+    <img alt="กราฟประวัติดาว" src="https://api.star-history.com/svg?repos=Rohit-girish-Belagali/EDUX-EDUORBIT&type=timeline&legend=top-left" />
   </picture>
 </a>
 
@@ -689,9 +689,9 @@ EDUX ยังยืนอยู่บนไหล่ของโปรเจก
 <p align="center">
  <a href="https://www.star-history.com/eduorbit/edux">
   <picture>
-   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/badge?repo=eduorbit/EDUX&theme=dark" />
-   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/badge?repo=eduorbit/EDUX" />
-   <img alt="อันดับประวัติดาว" src="https://api.star-history.com/badge?repo=eduorbit/EDUX" />
+   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/badge?repo=Rohit-girish-Belagali/EDUX-EDUORBIT&theme=dark" />
+   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/badge?repo=Rohit-girish-Belagali/EDUX-EDUORBIT" />
+   <img alt="อันดับประวัติดาว" src="https://api.star-history.com/badge?repo=Rohit-girish-Belagali/EDUX-EDUORBIT" />
   </picture>
  </a>
 </p>
